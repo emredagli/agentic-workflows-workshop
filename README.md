@@ -12,6 +12,7 @@ Or visit the [published workshop site](https://copilot-dev-days.github.io/agenti
 
 ## Repository Structure
 
+
 ```
 ├── docs/           # Published HTML site (GitHub Pages)
 │   ├── index.html  # Landing page
